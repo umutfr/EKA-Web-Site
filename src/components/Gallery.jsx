@@ -132,7 +132,7 @@ export default function Gallery() {
             className={`gallery-tab${activeTab === "photos" ? " active" : ""}`}
             onClick={() => setActiveTab("photos")}
           >
-            Fotoğraflarr
+            Fotoğraflarrr
           </button>
           <button
             type="button"
